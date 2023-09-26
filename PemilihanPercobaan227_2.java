@@ -33,7 +33,7 @@ public class PemilihanPercobaan227 {
                 System.out.println("D");
 
             }else {
-                System.out.println("D");
+                System.out.println("E");
             }
 
             
